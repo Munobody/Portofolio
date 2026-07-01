@@ -1,0 +1,244 @@
+{
+  "navbar": {
+    "logo": "Portfolio",
+    "links": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Activities",
+        "href": "/activities"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "buttonText": "CONNECT"
+  },
+  "hero": {
+    "subHeader": "STRATEGIST & KREATOR",
+    "mainHeader": "Mengubah Visi Menjadi Kenyataan Digital",
+    "paragraph": "Eksplorasi perpaduan antara inovasi teknologi dan keunggulan strategis untuk menciptakan dampak yang berkelanjutan.",
+    "button1": {
+      "text": "KENALI SAYA",
+      "href": "/about"
+    },
+    "button2": {
+      "text": "LIHAT PORTOFOLIO",
+      "href": "/activities"
+    }
+  },
+  "about": {
+    "badgeText": "PENGALAMAN 10+ TAHUN DI INDUSTRI KREATIF",
+    "subHeader": "SAMBUTAN HANGAT",
+    "mainHeader": "Membangun Masa Depan Dengan Presisi.",
+    "paragraph1": "Selamat datang di ruang digital saya. Saya adalah seorang profesional yang berdedikasi untuk menjembatani kesenjangan antara desain yang estetis dan fungsionalitas yang mumpuni.",
+    "paragraph2": "Filosofi kerja saya berakar pada kesederhanaan yang canggih—memastikan setiap detail memiliki tujuan dan setiap strategi didorong oleh hasil yang terukur. Mari kita ciptakan sesuatu yang luar biasa bersama.",
+    "photoUrl": "/uploads/Muyashir_Asriyan_Haikal_FISIP_USK_1782889171469.webp",
+    "stats": [
+      {
+        "value": "150+",
+        "label": "PROYEK SELESAI"
+      },
+      {
+        "value": "45",
+        "label": "KLIEN GLOBAL"
+      },
+      {
+        "value": "12",
+        "label": "PENGHARGAAN"
+      }
+    ]
+  },
+  "activities": {
+    "subHeader": "AKTIVITAS TERKINI",
+    "mainHeader": "Lensa Kegiatan & Eksplorasi Kreatif",
+    "viewAllText": "LIHAT SEMUA KEGIATAN",
+    "viewAllHref": "/activities",
+    "items": [
+      {
+        "id": "1",
+        "icon": "monitor",
+        "date": "OKTOBER 2024",
+        "title": "Pengembangan Framework UI Baru",
+        "description": "Mengerjakan sistem desain modern yang mengutamakan aksesibilitas dan performa tinggi untuk aplikasi berskala besar.",
+        "linkText": "Baca Detail",
+        "linkUrl": "/activities/1"
+      },
+      {
+        "id": "2",
+        "icon": "globe",
+        "date": "SEPTEMBER 2024",
+        "title": "Pembicara di Tech Innovate Jakarta",
+        "description": "Berbagi wawasan mengenai masa depan AI dalam ekosistem desain dan bagaimana profesional harus beradaptasi.",
+        "linkText": "Baca Detail",
+        "linkUrl": "/activities/2"
+      },
+      {
+        "id": "3",
+        "icon": "compass",
+        "date": "AGUSTUS 2024",
+        "title": "Kolaborasi Arsitektur Branding",
+        "description": "Bekerja sama dengan butik kreatif ternama untuk mereformulasi identitas visual dari startup teknologi finansial.",
+        "linkText": "Baca Detail",
+        "linkUrl": "/activities/3"
+      }
+    ]
+  },
+  "cta": {
+    "mainHeader": "Siap Untuk Memulai Proyek Berikutnya?",
+    "button1": {
+      "text": "HUBUNGI SEKARANG",
+      "href": "/contact"
+    },
+    "button2": {
+      "text": "UNDUH RESUME",
+      "href": "#"
+    }
+  },
+  "footer": {
+    "logo": "PORTFOLIO",
+    "description": "© 2024 Portfolio. Designed with sophisticated professionalism.",
+    "socials": [
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com"
+      },
+      {
+        "label": "Medium",
+        "href": "https://medium.com"
+      }
+    ]
+  },
+  "aboutPage": {
+    "subHeader": "CERITA DI BALIK KARYA",
+    "mainHeader": "Menggabungkan Presisi Teknis dengan Visi Inovatif & Kreatif.",
+    "description": "Seorang profesional yang berdedikasi untuk menciptakan solusi digital yang elegan, fungsional, dan memberikan dampak nyata bagi masyarakat global.",
+    "photoUrl": "/uploads/Muyashir_Asriyan_Haikal_FISIP_USK_1782889171469.webp",
+    "backgroundText": "Perjalanan saya dimulai dari ketertarikan mendalam pada bagaimana teknologi dapat memudahkan interaksi manusia. Dengan latar belakang pendidikan formal di bidang Sistem Informasi, saya telah menghabiskan lebih dari sepuluh tahun mengasah kemampuan dalam merancang ekosistem digital yang tidak hanya secara visual menarik, tetapi juga secara struktural kokoh. Setiap proyek yang saya tangani adalah refleksi dari dedikasi saya terhadap detail dan kualitas. Saya percaya bahwa desain yang baik adalah desain yang tidak terlihat, namun dampaknya terasa kuat oleh pengguna.",
+    "visionText": "Di masa depan, saya ingin berkontribusi lebih banyak dalam proyek-proyek yang memanfaatkan kecerdasan bualan untuk meningkatkan produktivitas dan aksesibilitas digital, memastikan bahwa teknologi dapat dinikmati oleh semua lapisan masyarakat tanpa terkecuali.",
+    "values": [
+      {
+        "title": "Integritas",
+        "description": "Menjunjung tinggi standar profesionalitas dan kejujuran dalam setiap fase kolaborasi."
+      },
+      {
+        "title": "Inovasi Berkelanjutan",
+        "description": "Terus mencari solusi baru yang adaptif dan memberikan dampak jangka panjang."
+      },
+      {
+        "title": "Kolaborasi",
+        "description": "Percaya bahwa hasil terbaik lahir dari sinergi dan komunikasi yang saling terbuka."
+      }
+    ],
+    "timeline": [
+      {
+        "role": "Political ",
+        "company": "Partai Aceh",
+        "period": "2021 — Sekarang",
+        "description": "Memimpin tim Gen Z dalam mengembangkan produk digital berskala internasional dengan fokus pada UX/UI yang responsif."
+      },
+      {
+        "role": "Senior UI Developer",
+        "company": "Tech Innovate Tbk",
+        "period": "2018 — 2021",
+        "description": "Membangun arsitektur frontend menggunakan teknologi modern dan memastikan performa optimal pada berbagai perangkat."
+      },
+      {
+        "role": "Sarjana Ilmu Politik",
+        "company": "Universitas Syiah Kuala",
+        "period": "2014 — 2018",
+        "description": "Lulus dengan predikat Cum Laude. Aktif dalam berbagai riset mengenai interaksi manusia dan komputer."
+      }
+    ],
+    "lifestyle": {
+      "photoUrl1": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
+      "photoUrl2": "https://images.unsplash.com/photo-151097252790b-a63880a49711?q=80&w=600&auto=format&fit=crop",
+      "tags": [
+        "Fotografi",
+        "Coffee Brewing",
+        "Perjalanan",
+        "Literature"
+      ],
+      "quote": "Kesederhanaan adalah kecanggihan tertinggi.",
+      "quoteAuthor": "Filosofi Hidup Saya"
+    }
+  },
+  "activitiesPage": {
+    "subHeader": "ARSIP & DOKUMENTASI",
+    "mainHeader": "Kegiatan & Portofolio.",
+    "paragraph": "Eksplorasi perjalanan profesional melalui proyek strategis, pemikiran terbaru, dan keterlibatan industri yang mendalam.",
+    "items": [
+      {
+        "id": "1",
+        "icon": "monitor",
+        "date": "12 SEPTEMBER 2024",
+        "title": "Transformasi Digital Sektor Perbankan",
+        "description": "Merancang ulang ekosistem digital salah satu bank terbesar di Indonesia, fokus pada integrasi UI dan user experience yang inklusif.",
+        "linkText": "BACA SELENGKAPNYA",
+        "linkUrl": "/activities/1",
+        "tag": "Proyek",
+        "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "2",
+        "icon": "globe",
+        "date": "08 AGUSTUS 2023",
+        "title": "Visi Masa Depan di Tech Summit 2023",
+        "description": "Catatan utama mengenai bagaimana teknologi AI berkelanjutan dapat membantu infrastruktur perkotaan dalam dekade berikutnya.",
+        "linkText": "BACA SELENGKAPNYA",
+        "linkUrl": "/activities/2",
+        "tag": "Acara",
+        "imageUrl": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "id": "3",
+        "icon": "compass",
+        "date": "03 JULI 2023",
+        "title": "Workshop: Desain Berbasis Empati",
+        "description": "Sesi intensif bagi para pemimpin kreatif untuk memahami metodologi desain yang berpusat pada manusia dan dampaknya pada ROI bisnis.",
+        "linkText": "BACA SELENGKAPNYA",
+        "linkUrl": "/activities/3",
+        "tag": "Berita",
+        "imageUrl": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "mediaHeader": "Sorotan",
+    "mediaParagraph": "Kumpulan ulasan dan liputan dari berbagai platform media terpercaya mengenai dampak proyek dan inovasi yang telah dijalankan.",
+    "mediaLinks": [
+      {
+        "title": "Menemukan Titik Temu Antara Estetika dan Fungsionalitas Digital",
+        "link": "#",
+        "date": "Baca artikel lengkap ↗"
+      },
+      {
+        "title": "10 Tren yang Mengubah Wajah Tech",
+        "link": "#",
+        "date": "Baca artikel lengkap ↗"
+      }
+    ]
+  },
+  "contactPage": {
+    "subHeader": "AYO MULAI OBROLAN",
+    "mainHeader": "Mari Terhubung",
+    "paragraph": "Saya selalu terbuka untuk kolaborasi baru, proyek kreatif, atau sekadar bertukar ide. Jangan ragu untuk menyapa melalui formulir di bawah ini.",
+    "email": "professional@example.com",
+    "location": "Jakarta, Indonesia",
+    "socialHeader": "IKUTI SAYA"
+  },
+  "updatedAt": 1782889649194
+}
