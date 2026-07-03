@@ -257,7 +257,6 @@ export default function AboutPageContent({ data }: AboutPageContentProps) {
           </a>
         </div>
       </section>
-
     </div>
   );
 }
